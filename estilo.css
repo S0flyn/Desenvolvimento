@@ -1,4 +1,10 @@
-#imagem{
+body{
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+#cont{
+    width: 70%;
 }
