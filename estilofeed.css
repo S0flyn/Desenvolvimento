@@ -1,0 +1,97 @@
+
+#imagem{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    flex-direction: column;
+    width: 10%;
+}
+#pub1{
+    background-color: rgba(216, 236, 240, 0.87);
+    color: #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 42%;
+    border-width: 5px 5px 5px 5px;
+    border-style:ridge;
+    border-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.container-icon {
+    width: 100%;
+    
+    display: flex;
+    justify-content: flex-end;
+}
+.like{
+    display: flex;
+    align-items: center;
+    padding-left: 100%;
+    text-align: right;
+    width: 100%;
+}
+.user{
+    display: flex;
+    align-items: center;
+    text-align: left;
+    width: 100%;
+ }
+ p{
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto Mono', monospace;
+ }
+ #pub2{
+    background-color: rgba(216, 236, 240, 0.87);
+    color: #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 42%;
+    border-width: 5px 5px 5px 5px;
+    border-style:ridge;
+    border-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 0 auto;
+}
+#pub3{
+    background-color: rgba(216, 236, 240, 0.87);
+    color: #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 42%;
+    border-width: 5px 5px 5px 5px;
+    border-style:ridge;
+    border-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 0 auto;
+}
+#pub4{
+    background-color: rgba(216, 236, 240, 0.87);
+    color: #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 42%;
+    border-width: 5px 5px 5px 5px;
+    border-style:ridge;
+    border-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 0 auto;
+}
+
